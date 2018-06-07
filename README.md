@@ -1,2 +1,2 @@
 # MyReactPlayground
-Just for playground
+Just for playground for React
